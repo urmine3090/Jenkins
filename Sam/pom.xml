@@ -24,7 +24,7 @@
   <version>v2.4</version>
   <name>JST</name>
   <description>Just</description>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
